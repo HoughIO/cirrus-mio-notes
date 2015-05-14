@@ -1,4 +1,5 @@
 How to push to github:
+
 1. navigate to file
 2. git add whatever you want to add (--all)
 3. git commit -m "name it"
@@ -11,15 +12,26 @@ How to push to github:
 you may need to git pull origin master if your files arent synced.
 
 commands for command line:
+
 cp copies stuff, put a location after to put it
+
 /* selects all of it.
+
 cd .. goes up a directory
+
 ~/ goes to home folder. This is in partition
+
 mkdir ~/name of the directory youre trying to make
+
 touch with name makes a folder
+
 rm -rf is used to remove directories
+
 rm file name removes a file
 
 ruby shit:
+
 irb to open
+
 exit() to close
+
